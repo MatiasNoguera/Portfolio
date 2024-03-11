@@ -1,3 +1,3 @@
-Portafolio / Portfolio
+Portafolio  /  Portfolio
 
 https://matiasnoguera.github.io/Portfolio/
